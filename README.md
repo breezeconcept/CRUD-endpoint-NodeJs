@@ -42,11 +42,15 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/yourusername/simple-crud-api.git
 
 2.  Navigate to the project directory:
+
+    ```bash
     cd simple-crud-api
 
 3.  Install the project dependencies:
 
+    ```bash
     npm install
+
 # or
 
     yarn install
@@ -59,6 +63,7 @@ Running the Server
 Start the Node.js server:
 
     npm start
+    
 # or
 
     yarn start
