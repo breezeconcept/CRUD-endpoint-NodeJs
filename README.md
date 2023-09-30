@@ -42,13 +42,13 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/yourusername/simple-crud-api.git
 
 2.  Navigate to the project directory:
-
     cd simple-crud-api
 
 3.  Install the project dependencies:
 
     npm install
 # or
+
     yarn install
 
 
